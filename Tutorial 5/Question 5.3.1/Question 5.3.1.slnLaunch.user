@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Question 5.3.1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Question 5.3.2\\Question 5.3.2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
